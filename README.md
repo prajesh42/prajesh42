@@ -86,33 +86,36 @@ Currently, I’m exploring opportunities in **research, thesis, and working stud
 
 ---
 
-## 💼 Experience Highlights
+## 💼 Professional Experience
 
 <details>
-<summary><b>Backend & Distributed Systems Development</b></summary>
+<summary><b>Mentor — Software Engineering</b> | Jun 2023 – Aug 2024</summary>
 
-- Built and maintained scalable backend services using **Java** and **Spring Boot**
-- Worked with **microservices** and **event-driven architectures**
-- Designed systems for reliability, maintainability, and performance
-- Experienced with **Linux environments, Docker, CI/CD, and production-oriented development**
+- Mentored developers on **Java, Spring Boot, and REST API best practices**.
+- Guided learners in **systematic problem-solving, requirement analysis, and technical documentation**.
+- Emphasized **testability, observability, and performance trade-offs** in backend system design.
+- Helped engineers understand **system architecture, debugging strategies, and scalable backend patterns**.
 
 </details>
 
 <details>
-<summary><b>High Performance & Quantum Computing</b></summary>
+<summary><b>Software Developer — OneIT Pty Ltd (Remote)</b> | Feb 2022 – Jun 2023</summary>
 
-- Pursuing advanced studies in **High Performance Computing and Quantum Computing**
-- Strong interest in **Quantum Error Correction**, fault-tolerant systems, and quantum algorithms
-- Exploring the intersection of **scalable classical systems** and **next-generation quantum technologies**
+- Developed and enhanced **finance, inventory, and employee management services** using **Java and Spring Boot microservices**.
+- Resolved production issues and reduced incident rates by identifying **latency hotspots and error sources**.
+- Designed backend services focusing on **throughput, fault tolerance, and maintainable architecture**.
+- Collaborated directly with stakeholders to gather requirements and deliver features **1–2 weeks ahead of schedule**.
+- Assisted junior developers in selecting **efficient data structures**, defining **clear API contract boundaries**, and writing reliable tests using **JUnit and Mockito**.
 
 </details>
 
 <details>
-<summary><b>AI & Automation</b></summary>
+<summary><b>Software Developer — Tata Consultancy Services</b> | Aug 2019 – Feb 2022</summary>
 
-- Interested in building automation workflows and AI-assisted systems
-- Exploring practical uses of **LLMs, AI tools, and intelligent software pipelines**
-- Passionate about combining **AI with engineering productivity and research workflows**
+- Built **high-volume REST APIs and microservices** for enterprise integration platforms.
+- Optimized system performance through **concurrency control, connection pooling, and resilient retry strategies**.
+- Developed reusable backend components deployed across **distributed cloud environments**.
+- Contributed to design and architecture reviews focusing on **scalability, reliability, and maintainability**.
 
 </details>
 
@@ -120,10 +123,11 @@ Currently, I’m exploring opportunities in **research, thesis, and working stud
 
 ## 🎓 Education
 
-| Degree | Institution | Status |
+| Degree | Institution | Location | Status |
 |--------|-------------|--------|
-| **M.Sc. High Performance Computing & Quantum Computing** | Germany | Ongoing |
-| **Bachelor’s in Engineering / Computer Science** | — | Completed |
+| **M.Sc. High Performance Computing & Quantum Computing** | Deggendorf Institute of Technology | Deggendorf, Germany | Ongoing (Since 2025) |
+| **Bachelor’s in Computer Science & Engineering** | RKDF University | Bhopal, India | Completed (2019) |
+| **High School** | Nepal Mega College | Kathmandu, Nepal | Completed (2015) |
 
 ---
 
@@ -132,17 +136,43 @@ Currently, I’m exploring opportunities in **research, thesis, and working stud
 - Deepening my understanding of **Quantum Error Correction**
 - Building stronger expertise in **distributed backend systems**
 - Exploring **AI automation workflows** and practical software applications
-- Looking for **master thesis / working student opportunities in Germany**
+- Looking for **Master thesis / working student opportunities in Germany**
+
+---
+
+# 🏆 Awards
+
+- Innovation Excellence Award — OneIT (2023)
+- Crisis Resolution Award — OneIT (2022)
+- Outstanding Contributor — TCS (2020)
+- Best Performer Award — RKDF University (2018)
+
+---
+
+# 📜 Certifications
+
+- CUDA-Q Quantum Supercomputing — NVIDIA & LRZ
+- Fundamentals of Deep Learning — NVIDIA & LRZ
+- GPU Programming Bootcamp — Open Hackathons
+- Introduction to Generative AI — Coursera
+
+---
+
+# 🌍 Languages
+
+🇳🇵 Nepali — Native  
+🇬🇧 English — Fluent (C1)  
+🇩🇪 German — Basic 
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/prajesh-panjiyar-8421ab109">
     <img src="https://img.shields.io/badge/LinkedIn-Prajesh_Panjiyar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:panjiyarprajesh@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
