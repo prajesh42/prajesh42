@@ -124,7 +124,7 @@ Currently, I’m exploring opportunities in **research, thesis, and working stud
 ## 🎓 Education
 
 | Degree | Institution | Location | Status |
-|--------|-------------|--------|
+|-------|-------------|----------|--------|
 | **M.Sc. High Performance Computing & Quantum Computing** | Deggendorf Institute of Technology | Deggendorf, Germany | Ongoing (Since 2025) |
 | **Bachelor’s in Computer Science & Engineering** | RKDF University | Bhopal, India | Completed (2019) |
 | **High School** | Nepal Mega College | Kathmandu, Nepal | Completed (2015) |
